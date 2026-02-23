@@ -21,4 +21,8 @@ Hello world!
 
 <img width="719" height="545" alt="image" src="https://github.com/user-attachments/assets/58d30f78-bef1-4067-9366-8478e0e8f28a" />
 
+Поскольку мы реально пытаемся чему-то научиться будем работать через нормальный интерфейс.
 
+<img width="757" height="567" alt="image" src="https://github.com/user-attachments/assets/ff7cf235-3e4e-47aa-8578-f64ff845ece1" />
+
+Плюс, как сообщает нейронка, серьезные дяди одетые в вязаные кофты в больших прохладных датацентрах не используют GUI. Верим?
