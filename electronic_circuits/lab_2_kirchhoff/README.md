@@ -6,7 +6,9 @@ https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4U
 
  Что мы знаем о токах?
  
-  <img width="455" height="614" alt="Pasted image 20260219013151" src="https://github.com/user-attachments/assets/686f7816-432f-4646-a0d3-200d0e11d5c6" />
+  <img width="271" height="212" alt="image" src="https://github.com/user-attachments/assets/fc44ed80-cf41-4715-a9ed-f8706af50b55" />
+
+_Направление тока для резистора в центре выбрано случайно, если мы ошиблись I_3 просто будет отрицательным._
 
  I_1 = I_3 + I_4
  I_5 = I_2 + I_3
