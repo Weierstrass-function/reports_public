@@ -1,4 +1,4 @@
-# Законы Кирзгофа
+# Законы Кирхгофа
 
 https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxASSsgoFMBaMMAKACcQAWDvTnrnsCh40w8Np27ghEnmmHI447IQHTls-FAWQlK3iHVT5oxe0OC+ki1pM6A7gb2T+++442WPUZg6FfDct6+eHw8hpJufiBRASFB0XEu4RE+7jLpLm6xngnCumFOkoY02Pm5acXgZYbJ8hziSYU5NAgNklGN8ijMKGCE5YEd8jCQLL39He1xUTQjLEA
 
