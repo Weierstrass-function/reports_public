@@ -1,2 +1,2 @@
-# publicReports
+# reports_public
 Весьма сомнительные доказательства работы
