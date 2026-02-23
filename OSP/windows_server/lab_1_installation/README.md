@@ -33,3 +33,24 @@ Hello world!
 При установке Windows Admin Center придется использовать самоподписные, извините удостоверяющего центра у меня нет(((
 
 <img width="372" height="235" alt="image" src="https://github.com/user-attachments/assets/eeff2e70-0643-4992-a102-cfbb8e51d299" />
+
+Хватит отправлять мои данные!
+
+<img width="492" height="334" alt="image" src="https://github.com/user-attachments/assets/b0c36282-b7c0-49b8-9935-0fbc0e94f8ce" />
+
+Делаем раз
+
+<img width="377" height="39" alt="image" src="https://github.com/user-attachments/assets/dac7ce9e-ca92-4116-897c-e80436b5164e" />
+
+<img width="623" height="470" alt="image" src="https://github.com/user-attachments/assets/40139d3e-d668-4e40-85a8-d5707ac77bed" />
+
+
+Делаем два
+
+<img width="831" height="317" alt="image" src="https://github.com/user-attachments/assets/1c1c821f-d1e1-43cf-8c14-ab9066a4f30a" />
+
+>For the record: для того чтобы указать локального админа на сервере следует писать так:
+
+<img width="462" height="80" alt="image" src="https://github.com/user-attachments/assets/9d1cdee0-1417-4b3d-8c14-4756e6dc97c9" />
+
+
