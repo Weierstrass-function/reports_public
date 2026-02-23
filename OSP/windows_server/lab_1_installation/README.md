@@ -26,3 +26,5 @@ Hello world!
 <img width="757" height="567" alt="image" src="https://github.com/user-attachments/assets/ff7cf235-3e4e-47aa-8578-f64ff845ece1" />
 
 Плюс, как сообщает нейронка, серьезные дяди одетые в вязаные кофты в больших прохладных датацентрах не используют GUI. Верим?
+
+>For the record: Ctrl+Alt+Del перехватывается хостом раньше чем доходит до виртуалки просто используйте Правый Ctrl+Delete
