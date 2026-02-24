@@ -17,18 +17,28 @@
   - Промпт для GLaDOS
   - Долги и иски по произведенным ваннам
 
+## Где оснастки MMC?
+По факту на текущий момент их заменил Windows Admin Center, мелкомягкие тоже рекомендуют использовать именно его, поэтому проведем его обзор.
 
-<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/a1559861-4406-452c-b266-874e337f3bef" />
-
-
-Поскольку мы собираемся разграничивать доступ жмем Apply
-
-# Обзор оснасток
 ## Overview
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b9bfd48-982c-4167-8855-fb7bee557147" />
 
 на этом дэшборде сводная информация о ресурсах и их использовании
+
+## Security
+
+<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/48c89c4f-f4f1-4dbc-8e34-4040bcb3dbcd" />
+
+Можно установить расписание сканирований. 
+
+<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/e4ec382c-7aba-4711-8e7f-84f11e533199" />
+
+А вот это самое интересное тут можно выбрать различные baseline политики. По сути различные настройки парольная политика (например минимальная длина пароля), что логировать и т.п. Причем недавно они разрешили прямо отдельные политики добавлять.
+
+Также есть вкладка Silicon Assisted Security как не трудно догадаться это аппаратные средства безопасности.
+
+Protection history видмо тут мы будем искать очередной файл котрый винда решила снести без суда, следствия, а кроме того вашего согласия и ведома.
 
 ## Certificates
 
@@ -43,9 +53,21 @@
 Местный диспетчер устройств. Можно например отключить устройство. Можно подумать, что получится обновить дрова, но опыт общения с диспетчером устройств на обычной винде подсказывает - НЕТ.
 
 ## Events
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/00d74875-921c-4734-8007-19e3ed5def78" />
 
-как не трудно догадаться логи
+Как не трудно догадаться логи. Экспорт, удаление.
+
+## Files and file sharing
+
+<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/481fbee8-94c6-4551-b244-129505413e56" />
+
+Файлы, директории и доступы к ним.
+
+Создадим сразу директорию EnrichmentCenterStorage.
+
+После 10 секундного ожидания при создании перейдем в нормальный интерфейс.
+
 ## Local users and groups
 <img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/261a6387-9f4f-454e-b847-df865c6d6d0b" />
 
@@ -75,4 +97,6 @@
 
 
 
+<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/a1559861-4406-452c-b266-874e337f3bef" />
 
+Поскольку мы собираемся разграничивать доступ жмем Apply
