@@ -71,12 +71,6 @@ Protection history видмо тут мы будем искать очередн
 
 После 10 секундного ожидания при создании перейдем в нормальный интерфейс.
 
-<img width="790" height="231" alt="image" src="https://github.com/user-attachments/assets/d6c7a0d3-40b6-4eee-8f74-3842df849374" />
-
-<img width="390" height="135" alt="image" src="https://github.com/user-attachments/assets/5ac0bf5e-bb04-4bf7-aff3-92c4915231f5" />
-
-<img width="946" height="96" alt="image" src="https://github.com/user-attachments/assets/634de611-dc78-4f63-bdfb-228662760ee2" />
-
 <img width="968" height="232" alt="image" src="https://github.com/user-attachments/assets/e439414d-47ae-49a4-987d-fb7908b37ce2" />
 
 >For the record: чтобы иметь возможность загужать и скачивать файлы в Firewall надо включить это.
@@ -90,9 +84,11 @@ Protection history видмо тут мы будем искать очередн
 Что о ней еще сказать? Можно кроме включения выключения правил можно их еще создавать и удалять.
 
 ## Local users and groups
-<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/261a6387-9f4f-454e-b847-df865c6d6d0b" />
+
+<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/8984c2c7-6b3f-4e03-a80d-fb1eb2bea7a1" />
 
 Тут очевидным образом можно выполнять различные действия с пользователями и группами пользователей.
+
 ## Services
 <img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/63bec144-ecf0-4525-9852-af9d8f8c1652" />
 
@@ -101,23 +97,3 @@ Protection history видмо тут мы будем искать очередн
 <img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/5dd7da2c-bb70-4818-a97d-8e48d9fe0b19" />
 
 Как известно все настройки, что нельзя покрутить нормальным способом можно покрутить тут. Будем надееться, сюда нам лезть не надо будет.
-## Storage
-<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/cffa485f-27b7-40e7-b54d-b042f12549e5" />
-
-
-## Processes
-<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/028434e5-82f2-4f30-a85d-8bbf520999f6" />
-
-
-## Networks
-<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/101d526c-063f-48d2-a467-06c4f2214898" />
-
-
-## Firwall
-<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/9e1f7ac0-99ad-43a3-9f1a-f762585f3655" />
-
-
-
-<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/a1559861-4406-452c-b266-874e337f3bef" />
-
-Поскольку мы собираемся разграничивать доступ жмем Apply
