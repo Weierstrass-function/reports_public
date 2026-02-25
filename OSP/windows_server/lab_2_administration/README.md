@@ -81,6 +81,14 @@ Protection history видмо тут мы будем искать очередн
 
 >For the record: чтобы иметь возможность загужать и скачивать файлы в Firewall надо включить это.
 
+## Firewall
+
+Она с нами уже познакомилась. А мы с ней нет. Но по сути тут все настройки (правила) брандмауэра разделенные на список входящих и исходящих.
+
+<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/61665450-27d6-4d18-828a-4e0d62d3706d" />
+
+Что о ней еще сказать? Можно кроме включения выключения правил можно их еще создавать и удалять.
+
 ## Local users and groups
 <img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/261a6387-9f4f-454e-b847-df865c6d6d0b" />
 
