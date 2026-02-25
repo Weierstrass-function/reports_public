@@ -77,6 +77,9 @@ Protection history видмо тут мы будем искать очередн
 
 <img width="946" height="96" alt="image" src="https://github.com/user-attachments/assets/634de611-dc78-4f63-bdfb-228662760ee2" />
 
+<img width="968" height="232" alt="image" src="https://github.com/user-attachments/assets/e439414d-47ae-49a4-987d-fb7908b37ce2" />
+
+>For the record: чтобы иметь возможность загужать и скачивать файлы в Firewall надо включить это.
 
 ## Local users and groups
 <img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/261a6387-9f4f-454e-b847-df865c6d6d0b" />
