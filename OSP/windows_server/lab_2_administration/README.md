@@ -64,9 +64,19 @@ Protection history видмо тут мы будем искать очередн
 
 Файлы, директории и доступы к ним.
 
-Создадим сразу директорию EnrichmentCenterStorage.
+Создадим сразу директорию EnrichmentCenterStorage. И все остальные файлы нашей организации.
+
+<img width="535" height="661" alt="image" src="https://github.com/user-attachments/assets/c475adec-f83c-48ac-b95d-32ae5dd9a7b2" />
+
 
 После 10 секундного ожидания при создании перейдем в нормальный интерфейс.
+
+<img width="790" height="231" alt="image" src="https://github.com/user-attachments/assets/d6c7a0d3-40b6-4eee-8f74-3842df849374" />
+
+<img width="390" height="135" alt="image" src="https://github.com/user-attachments/assets/5ac0bf5e-bb04-4bf7-aff3-92c4915231f5" />
+
+<img width="946" height="96" alt="image" src="https://github.com/user-attachments/assets/634de611-dc78-4f63-bdfb-228662760ee2" />
+
 
 ## Local users and groups
 <img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/261a6387-9f4f-454e-b847-df865c6d6d0b" />
