@@ -1,4 +1,4 @@
-# Лабораторная работа № 3. Настройка сетевого сервера на базе MS Windows Server
+<img width="321" height="399" alt="image" src="https://github.com/user-attachments/assets/37e7ec6f-f87e-410d-ad84-ca4daf198ffe" /># Лабораторная работа № 3. Настройка сетевого сервера на базе MS Windows Server
 Цель работы: сформировать навыки установки серверов на базе MS Windows Server и настройки сетевых служб
 
 Задачи работы:
@@ -50,16 +50,24 @@ Import-Module DhcpServer # Вопросов не задаваем
 Add-DhcpServerInDC # Добавляем
 Get-DhcpServerInDC # Если в списке значит все прокатило
 
-# Создание scope
-Add-DhcpServerv4Scope -Name "CentralChamber" -StartRange 10.100.91.150 -EndRange 10.100.91.250 -SubnetMask 255.255.255.0
+# Создание scope типа с 10.1.1.2-10.1.1.49 зарезервировано под всякие сервера и принтеры
+Add-DhcpServerv4Scope -Name "CentralChamber" -StartRange 10.1.1.50 -EndRange 10.1.1.200 -SubnetMask 255.255.255.0
+SetDhcpServerv4OptionValue -ScopeId 10.1.1.0 -Router 10.1.1.1 3 # Устанавливаем шлюз чтобы из ApertureNet можно было попасть в интернет
 
-# Настраиваем
-Set-DhcpServerv4OptionValue `
-    -ScopeId 10.100.91.0 `
-    -DnsDomain "EnrCntr.local" `
-    -DnsServer 10.100.91.10 `
-    -Router 10.100.91.196
+# Поставим NAT поскольку архитектура нашей сети требует
+Install-WindowsFeature -Name Routing -IncludeManagementTools
+Set-NetIPInterface -Forwarding Enabled -InterfaceIndex 4, 7
 
 ```
 
+## На клиенте
+Ставим DNS 10.1.1.1 (ибо не получилось)
+
+<img width="321" height="399" alt="image" src="https://github.com/user-attachments/assets/f3425692-6aad-43b4-a8ed-e74c5a9efdae" />
+
+Задаем домен через sysdm.cpl
+
+<img width="443" height="279" alt="image" src="https://github.com/user-attachments/assets/d1949b75-8063-4430-8779-d03e91e33161" />
+
+Входим и отправляемся в Reboot
 
