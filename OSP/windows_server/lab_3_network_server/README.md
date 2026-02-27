@@ -1,4 +1,4 @@
-<img width="321" height="399" alt="image" src="https://github.com/user-attachments/assets/37e7ec6f-f87e-410d-ad84-ca4daf198ffe" /># Лабораторная работа № 3. Настройка сетевого сервера на базе MS Windows Server
+# Лабораторная работа № 3. Настройка сетевого сервера на базе MS Windows Server
 Цель работы: сформировать навыки установки серверов на базе MS Windows Server и настройки сетевых служб
 
 Задачи работы:
@@ -59,6 +59,9 @@ Install-WindowsFeature -Name Routing -IncludeManagementTools
 Set-NetIPInterface -Forwarding Enabled -InterfaceIndex 4, 7
 
 ```
+
+
+Делаем NAT
 
 ## На клиенте
 Ставим DNS 10.1.1.1 (ибо не получилось)
