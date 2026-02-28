@@ -10,6 +10,16 @@
 - описание структуры домена;
 - описание настройки DHCP и DNS.
 
+## Описание структуры домена
+
+- Лес из одного дерева
+- Дерево в составе которого один домен
+- Домен в составе котрогого выделены организвацонные подраздиления:
+  - FinancialDepartment
+  - AI
+  - Subjects
+  - Managment
+
 ## Да здравствует Domain Controller
 
 <img width="679" height="158" alt="image" src="https://github.com/user-attachments/assets/641a6e96-8e5a-4cbd-b96d-a5d62b6a111d" />
@@ -74,3 +84,10 @@ Set-NetIPInterface -Forwarding Enabled -InterfaceIndex 4, 7
 
 Входим и отправляемся в Reboot
 
+<img width="634" height="483" alt="image" src="https://github.com/user-attachments/assets/a7979554-0acf-4419-8d50-0ad505616fc0" />
+
+<img width="626" height="355" alt="image" src="https://github.com/user-attachments/assets/6460a3fb-a9af-4366-8943-c8c2ad7a0d54" />
+
+<img width="644" height="417" alt="image" src="https://github.com/user-attachments/assets/7e7b96de-fc6e-413f-acd8-6fa346a3ea8d" />
+
+При установке WAC в домене поскольку все пользователи не локальные выбираем эти пункты.
