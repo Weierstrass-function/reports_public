@@ -2,7 +2,7 @@
 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/26cd6a97-7263-4de0-a765-82532306b2ac" />
 
-https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmayxgQFgWAnAgBwBseATOmSApNSFstQKYC0GAUAG4jFYpm1e4MoShistJLWnQE7AE48+YESDITho2mHjsAxmo0rR62sgH0oseBCzQ8Dh4UhlcyBHkJ8YcCJHYA7oZmFkLm0uwA9mpK4pAOdD6QxK5iVFTI7EA
+https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcAOaAmA7MgnGB-kA2MAFgwTRAUipBIGYqBTAWjDACgA3EQkkemhp9waZFAkkaSGrOgIOAJ178wYkGimjxNMPA4BjDVrXjNNQTX4x4kCCWhFsGF4WRoh2fBBt2oHAHdjCyEVAVDIDgB7DTCrSGxsWl9CNBlYynpo8DjRNFw6aESXagRU+gRsEj0ZWEgSYvJIMrQKqogISggsoA
 
 ```
 i(t) = C * d*u/ (d*t)
