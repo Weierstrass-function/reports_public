@@ -1,12 +1,12 @@
-# Применение законов Кирхгофа для вычисления сопротивления
+# Схема не раскладывается на паралельные и последовательные соединения
+
+>Существует метод преобразования треугольников в звезды. Но если все же хочешь страдать - продолжай.
 
 Мнемоника для законов https://www.youtube.com/watch?v=9MTtfBzpu2o
 
 Модель https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxASSsgoFMBaMMAKACcQAWDvTnrnsCh40w8Np27ghEnmmHI447IQHTls-FAWQlK3iHVT5oxe0OC+ki1pM6A7gb2T+++442WPUZg6FfDct6+eHw8hpJufiBRASFB0XEu4RE+7jLpLm6xngnCumFOkoY02Pm5acXgZYbJ8hziSYU5NAgNklGN8ijMKGCE5YEd8jCQLL39He1xUTQjLEA
 
-> В решении задачи немного не по алгоритму, но правильно.
-
-# Универсальный алгоритм
+# Алкоритм
 
 ## Обозначить существующие токи.
 
